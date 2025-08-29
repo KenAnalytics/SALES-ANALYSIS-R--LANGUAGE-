@@ -143,7 +143,7 @@ ggplot(Main_Data, aes(x = gender, fill = member_casual)) +
 
 
 
-#🎯 Recommendations for the Bike Company
+🎯 Recommendations for the Bike Company
 #1.	Weekend Promotions for Casual Riders
 #•	Offer discounted annual memberships or trial passes on Saturdays and Sundays when casual usage peaks.
 #2.	Targeted Marketing Campaigns
